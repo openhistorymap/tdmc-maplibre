@@ -5,7 +5,7 @@ usage:
 
       var map = new maplibregl.Map({
                 container: 'map', // container id
-                style: 'https://api.maptiler.com/maps/positron/style.json?key=FWP3U2SNNqUqmFqOkifS', // style URL
+                style: 'https://api.maptiler.com/maps/positron/style.json?key=<your_key_here>', 
                 zoom: 16,
                 hash: true,
                 center: [2.294481, 48.85837]
